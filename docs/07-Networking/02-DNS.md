@@ -69,6 +69,9 @@
     ```
 
 # DOMAIN NAMES
+![image](https://github.com/srimanthteja/linux-basics-course/assets/125323441/881d9292-6e2b-4b29-b0ef-92d038e18d08)
+
+
 
   ![DNS](../../images//dns.PNG)
 
