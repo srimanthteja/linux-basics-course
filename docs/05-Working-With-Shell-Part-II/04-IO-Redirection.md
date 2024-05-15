@@ -49,6 +49,8 @@ $ cat missing_file 2> /dev/null
 
 ## Command Line Pipes
 
+redirecting data to a file later to be consumed by another command can be hard....
+
 Command Line Pipes allow the linking of multiple commands.
 - In simple terms, pipes allows the first commands standard output to be used as the standard input for the second command.
 - The pipes are defined using vertical bar symbol (|).
